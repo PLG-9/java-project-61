@@ -7,6 +7,7 @@ public class App {
         System.out.println("""
                            Please enter the game number and press Enter.
                            1 - Greet
+                           2 - Even
                            0 - Exit""");
 
         Scanner gameNoSelection = new Scanner(System.in);
@@ -17,17 +18,11 @@ public class App {
         switch (gameNo) {
 
             case "1":
-                System.out.println("\nWelcome to the Brain Games!");
+                Greet.greetUser();
+                break;
 
-                Scanner userNameSelection = new Scanner(System.in);
-
-                System.out.print("May I have your name? ");
-                String userName = userNameSelection.next();
-                System.out.println("Hello, " + userName + "!");
-
-                gameNoSelection.close();
-                userNameSelection.close();
-
+            case "2":
+                Even.launchEven();
                 break;
 
             case "0":
