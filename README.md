@@ -4,3 +4,7 @@
 
 Аскинема с примером запуска игры **EVEN**, победой и поражением игрока:
 https://asciinema.org/a/rBKLQIeQjm7yoaF0Ungqm2yBO
+
+Аскинема с примером запуска игры **CALCN**, победой и поражением игрока:
+https://asciinema.org/a/P1BHpxWsEPpk2fVzfoncSttqz
+
