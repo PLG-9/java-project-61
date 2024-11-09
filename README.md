@@ -3,13 +3,13 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/54d71c1931e5cfc31cac/maintainability)](https://codeclimate.com/github/PLG-9/java-project-61/maintainability)
 
 Аскинема с примером запуска игры **EVEN**, победой и поражением игрока:
-[![asciicast](https://asciinema.org/a/rBKLQIeQjm7yoaF0Ungqm2yBO.svg)(https://asciinema.org/a/rBKLQIeQjm7yoaF0Ungqm2yBO)
+[![asciicast](https://asciinema.org/a/rBKLQIeQjm7yoaF0Ungqm2yBO.svg)](https://asciinema.org/a/rBKLQIeQjm7yoaF0Ungqm2yBO)
 
 Аскинема с примером запуска игры **CALC**, победой и поражением игрока:
-[![asciicast](https://asciinema.org/a/P1BHpxWsEPpk2fVzfoncSttqz.svg)(https://asciinema.org/a/P1BHpxWsEPpk2fVzfoncSttqz)
+[![asciicast](https://asciinema.org/a/P1BHpxWsEPpk2fVzfoncSttqz.svg)](https://asciinema.org/a/P1BHpxWsEPpk2fVzfoncSttqz)
 
 Аскинема с примером запуска игры **GCD**, победой и поражением игрока:
-[![asciicast](https://asciinema.org/a/0KtGiLoXOVXmS8vvB43h37jK2.svg)(https://asciinema.org/a/0KtGiLoXOVXmS8vvB43h37jK2)
+[![asciicast](https://asciinema.org/a/0KtGiLoXOVXmS8vvB43h37jK2.svg)](https://asciinema.org/a/0KtGiLoXOVXmS8vvB43h37jK2)
 
 Аскинема с примером запуска игры **PROGRESSION**, победой и поражением игрока:
-[![asciicast](https://asciinema.org/a/497xUghpDluBcDv66lxhKrJ6j.svg)(https://asciinema.org/a/497xUghpDluBcDv66lxhKrJ6j)
+[![asciicast](https://asciinema.org/a/497xUghpDluBcDv66lxhKrJ6j.svg)](https://asciinema.org/a/497xUghpDluBcDv66lxhKrJ6j)
