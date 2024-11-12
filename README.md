@@ -16,3 +16,4 @@
 
 Аскинема с примером запуска игры **PRIME**, победой и поражением игрока:
 [![asciicast](https://asciinema.org/a/zqpu37OCJLtgyLDXLW95V1MaI.svg)](https://asciinema.org/a/zqpu37OCJLtgyLDXLW95V1MaI)
+
