@@ -9,6 +9,9 @@ public class App {
                            1 - Greet
                            2 - Even
                            3 - Calc
+                           4 - GCD
+                           5 - Progression
+                           6 - Prime
                            0 - Exit""");
 
         Scanner gameNoSelection = new Scanner(System.in);
@@ -29,6 +32,16 @@ public class App {
             case "3":
                 Calc.launchCalc();
                 break;
+
+            case "4":
+                GCD.launchGCD();
+                break;
+
+            case "5":
+                Progression.launchProgression();
+
+            case "6":
+                Prime.launchPrime();
 
             case "0":
                 break;

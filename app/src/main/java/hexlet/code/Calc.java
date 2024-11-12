@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Calc {
     public static void launchCalc() {
+
         System.out.println("\nWelcome to the Brain Games!");
 
         Scanner userNameSelection = new Scanner(System.in);
