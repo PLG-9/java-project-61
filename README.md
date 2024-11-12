@@ -13,3 +13,6 @@
 
 Аскинема с примером запуска игры **PROGRESSION**, победой и поражением игрока:
 [![asciicast](https://asciinema.org/a/497xUghpDluBcDv66lxhKrJ6j.svg)](https://asciinema.org/a/497xUghpDluBcDv66lxhKrJ6j)
+
+Аскинема с примером запуска игры **PRIME**, победой и поражением игрока:
+[![asciicast](https://asciinema.org/a/zqpu37OCJLtgyLDXLW95V1MaI)](https://asciinema.org/a/zqpu37OCJLtgyLDXLW95V1MaI)
